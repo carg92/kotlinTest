@@ -18,4 +18,4 @@ res3: kotlin.String = Tengo 5 pescados en mi pecera y 12 plantas en mi casa
 
 #or this
 "Tengo ${pescados + plantas } pescados y plantas en mi casa"
-res5: kotlin.String = Tengo 17 pescados y plantas en mi casa
+res5: kotlin.String = Tengo 17 pescados y plantas en mi casa 
